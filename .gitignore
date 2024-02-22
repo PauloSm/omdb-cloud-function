@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.venv/
+venv/
+ENV/
+env/
+tests/
+.PyCharm*/
+.pytest_cache/
+
+.env
+
+app.yaml
